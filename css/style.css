@@ -9,12 +9,14 @@
     - Blu scuro: #0f0e17
     - Azzurro: #13bae5 */
 
+/* Struttura */
 .structure {
     background-color: white;
     max-width: 1170px;
     margin: auto;
 }
 
+/* Scritte titolo e paragrafo */
 h1 {
     font-family: 'Fredoka One', cursive;
     text-align: center;
@@ -30,10 +32,12 @@ p {
     margin-right: 40px;
 }
 
+/* Container */
 .container {
     margin-left: 40px;
 }
 
+/* Layout cards */
 .card {
     background-color: #0f0e17;
     width: 350px;
