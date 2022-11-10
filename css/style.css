@@ -43,3 +43,18 @@ p {
     color: white;
     box-shadow: -5px 5px 5px lightgrey;
 }
+
+.info {
+    padding: 20px 0;
+}
+
+.foto {
+    height: 100%;
+    float: left;
+    margin-right: 10px;
+}
+
+.nome {
+    font-family: 'Fredoka One', cursive;
+    padding-bottom: 3px;
+}
