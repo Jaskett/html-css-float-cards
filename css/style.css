@@ -28,3 +28,18 @@ p {
     text-align: center;
     margin-bottom: 40px;
 }
+
+.container {
+    margin-left: 40px;
+}
+
+.card {
+    background-color: #0f0e17;
+    width: 350px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    color: white;
+    box-shadow: -5px 5px 5px lightgrey;
+}
