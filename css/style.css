@@ -7,7 +7,7 @@
 /* Palette colori
     - Rosa: #e53170
     - Blu scuro: #0f0e17
-    - Azzurro: #0f0e17 */
+    - Azzurro: #13bae5 */
 
 .structure {
     background-color: white;
@@ -57,4 +57,20 @@ p {
 .nome {
     font-family: 'Fredoka One', cursive;
     padding-bottom: 3px;
+}
+
+.email {
+    color: #13bae5;
+}
+
+.ruolo, .email {
+    font-family: 'Fredoka', sans-serif;
+    font-size: small;
+    padding: 3px;
+}
+
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
 }
