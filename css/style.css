@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Palette colori
+    - Rosa: #e53170
+    - Blu scuro: #0f0e17
+    - Azzurro: #0f0e17 */
+
+.structure {
+    background-color: white;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    color: #e53170;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+}
